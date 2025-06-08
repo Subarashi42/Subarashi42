@@ -18,8 +18,8 @@
 ## 🎮 Current Quest Log
 
 ### **Shadows of Kaelora**
-Dark fantasy RPG featuring corruption mechanics, faction choices, and dual perspectives.  
-| *In Progress...*
+Dark fantasy RPG featuring a "corruption" mechanic, faction choices, and dual perspectives multiple choice solo play.  
+Project Lead| Working on this with a great devolpment team! *In Progress...*
 
 ### **Emotion Recognition iOS App**
 Real-time facial emotion prediction using TensorFlow Lite and Swift.
@@ -28,10 +28,10 @@ Real-time facial emotion prediction using TensorFlow Lite and Swift.
 
 ## 📜 Completed Quests
 
-- **Blackjack Discord Bot**: A fully functional blackjack bot with betting and balance tracking.
+- **Gojo Blackjack Discord Bot**: A fully functional blackjack bot with betting and balance tracking.
 - **Dynamic Chatbot**: Built an AI chatbot with custom personalities using Python.
 - **Database Design for Media Streaming**: Created a robust MongoDB schema for a hypothetical streaming service.
-- **FER Student Engagement**: Built a
+- **FER Student Engagement**: Built an FER Model that detects whether a student is engaged vs disengaged in class.
 
 ---
 
