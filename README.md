@@ -7,7 +7,7 @@
 
 ---
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,blender,mysql,aws,swift" alt="Toolbox" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,blender,mysql,aws,swift,ruby" alt="Toolbox" />
 </div>
 
 ---
