@@ -54,5 +54,5 @@ Real-time facial emotion prediction using TensorFlow Lite and Swift.
 ---
 
 <div align="center">
-  <strong>⚔️ Keep building. 🧠 Keep learning. 🧪 Break things often. 🗺️ The code is the map; the bug is the adventure.</strong>
+  <strong>⚔️ Keep building. 🧠 Keep learning. 🧪 Break things often. 🗺️ The code is the map; the bug is the adventure .</strong>
 </div>
