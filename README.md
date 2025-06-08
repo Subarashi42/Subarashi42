@@ -16,7 +16,7 @@
 
 ### **Shadows of Kaelora**
 Dark fantasy RPG featuring a "corruption" mechanic, faction choices, and dual perspectives multiple choice solo play.  
-Project Lead| Working on this with a great devolpment team! *In Progress...*
+Project Lead| Working on this with a great development team! *In Progress...*
 
 ### **Emotion Recognition iOS App**
 Real-time facial emotion prediction using TensorFlow Lite and Swift.
