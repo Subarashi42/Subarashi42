@@ -49,13 +49,6 @@ Real-time facial emotion prediction using TensorFlow Lite and Swift.
 
 ---
 
-## 🧙 Fun Fact
-
-```bash
-> whoami
-Aiden Clare: Leading RPG dev project, tinkering with AI, and once walked the darker alleys of code. I've built bots, broken rules, and now I write worlds.
-```
-
 > *“Not all bugs are errors. Some are secret features waiting to be discovered.”*
 
 ---
