@@ -1,9 +1,24 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9F79EE&center=true&vCenter=true&width=600&height=50&lines=Hey+I'm+Aiden+Clare;Project+Lead+%7C+AI+Tinkerer;Breaker+of+Rules+%7C+Builder+of+Systems;Dreamer+of+Worlds+%7C+Dev+of+Many+Tools" alt="Typing SVG" />
 
-  <img src="https://user-images.githubusercontent.com/99184393/134808448-d54a2b36-50c8-4a5e-9182-dc6e5f5a5d69.gif" width="200px" /><br>
-  <strong>🚀 Computer Science Student @ Moravian University | Indie Game Dev | Dreaming in Code</strong>
+  <div style="position: relative; width: 200px; height: 200px;">
+    <div style="width: 100%; height: 100%; border: 3px solid #9F79EE; border-radius: 50%; animation: spin 4s linear infinite;"></div>
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; color: #9F79EE;">
+      🚀 Dreaming in Code
+    </div>
+  </div>
 </div>
+
+<style>
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+</style>
 
 ---
 
@@ -68,16 +83,6 @@ Aiden Clare: Leading RPG dev project, tinkering with AI, and once walked the dar
 ```
 
 > *“Not all bugs are errors. Some are secret features waiting to be discovered.”*
-
-<div align="center">
-  <pre>
-         .--.
-      .'_\/_'.
-       '. /\ .'
-         "||"
-           `
-  </pre>
-</div>
 
 ---
 
