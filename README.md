@@ -35,15 +35,6 @@ Real-time facial emotion prediction using TensorFlow Lite and Swift.
 
 ---
 
-## 📚 Leveling Up
-
-- 🧠 Mastering AI + Game Integration
-- 💡 Exploring Shader Magic
-- ☁️ Deepening my AWS & cloud dev skills
-- 🎓 Planning research in game systems or applied ML
-
----
-
 ## 📈 Stats & Streaks
 
 <div align="center">
@@ -69,16 +60,6 @@ Aiden Clare: Leading RPG dev project, tinkering with AI, and once walked the dar
 ```
 
 > *“Not all bugs are errors. Some are secret features waiting to be discovered.”*
-
-<div align="center">
-  <pre>
-         .--.
-      .'_\/_'.
-       '. /\ .'
-         "||"
-           `
-  </pre>
-</div>
 
 ---
 
