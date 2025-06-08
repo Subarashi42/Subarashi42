@@ -1,5 +1,6 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9F79EE&vCenter=true&width=435&lines=Hey+I'm+Aiden+Clare!;Game+Dev+%7C+Student+%7C+;Builder+of+Worlds" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9F79EE&center=true&vCenter=true&width=600&height=50&lines=Hey+I'm+Aiden+Clare.;Project+Lead+%7C+AI+Tinkerer.;Breaker+of+Rules+%7C+Builder+of+Systems.;Dreamer+of+Worlds+%7C+Dev+of+Many+Tools." alt="Typing SVG" />
+
 
 <div align="center">
   <img src="https://github.com/aidenclare/aidenclare/assets/your-gif-id/shadowsofkaelora.gif" width="200px" /><br>
