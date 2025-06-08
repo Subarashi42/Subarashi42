@@ -1,32 +1,12 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Hey+I'm+Aiden+Clare;Project+Lead+%7C+AI+Tinkerer;Breaker+of+Rules+%7C+Builder+of+Systems;Dreamer+of+Worlds+%7C+Dev+of+Many+Tools" alt="Typing SVG" />
-
-  <div style="position: relative; width: 250px; height: 250px; background: black; border-radius: 50%; display: flex; align-items: center; justify-content: center; overflow: hidden; box-shadow: 0 0 20px #00FF00;">
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: radial-gradient(circle, transparent 60%, rgba(0, 255, 0, 0.2)); animation: pulse 2s infinite;"></div>
-    <div style="color: #00FF00; font-family: 'Courier New', monospace; text-align: center;">
-      <strong>🚀 Dreaming in Code</strong>
-      <br><br>
-      <span>"System Online"</span>
-    </div>
-  </div>
+  
+  <img src="https://user-images.githubusercontent.com/99184393/134808448-d54a2b36-50c8-4a5e-9182-dc6e5f5a5d69.gif" alt="Pulsing Animation" width="250px" />
+  
+  <strong style="color: #00FF00; font-family: 'Courier New', monospace;">🚀 Dreaming in Code</strong>
+  <br>
+  <span style="color: #00FF00; font-family: 'Courier New', monospace;">"System Online"</span>
 </div>
-
-<style>
-@keyframes pulse {
-  0% {
-    transform: scale(1);
-    opacity: 0.8;
-  }
-  50% {
-    transform: scale(1.1);
-    opacity: 1;
-  }
-  100% {
-    transform: scale(1);
-    opacity: 0.8;
-  }
-}
-</style>
 
 ---
 
@@ -88,22 +68,3 @@ Real-time facial emotion prediction using TensorFlow Lite and Swift.
 ```bash
 > whoami
 Aiden Clare: Leading RPG dev project, tinkering with AI, and once walked the darker alleys of code. I've built bots, broken rules, and now I write worlds.
-```
-
-> *“Not all bugs are errors. Some are secret features waiting to be discovered.”*
-
-<div align="center">
-  <pre style="color: #00FF00; font-family: 'Courier New', monospace; background: black; padding: 10px; border-radius: 5px;">
-         .--.
-      .'_\/_'.
-       '. /\ .'
-         "||"
-           `
-  </pre>
-</div>
-
----
-
-<div align="center">
-  <strong style="color: #00FF00; font-family: 'Courier New', monospace;">⚔️ Keep building. 🧠 Keep learning. 🧪 Break things often. 🗺️ The code is the map; the bug is the adventure.</strong>
-</div>
