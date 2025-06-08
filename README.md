@@ -6,9 +6,6 @@
 </div>
 
 ---
-
-## 🧰 Toolbox
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,blender,mysql,aws,swift" alt="Toolbox" />
 </div>
