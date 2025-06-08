@@ -10,6 +10,7 @@
 
 ## 🧰 Toolbox
 
+![C++](https://img.shields.io/badge/-C++-222222?style=flat&logo=c++)
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java)
 ![Blender](https://img.shields.io/badge/-Blender-222222?style=flat&logo=blender)
