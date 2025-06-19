@@ -36,7 +36,7 @@ Real-time facial emotion prediction using TensorFlow Lite and Swift.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Subarashi42&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Subarashi42&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Subarashi42&theme=tokyonight&v=1" alt="GitHub Streak"/>
 </div>
 
 ---
